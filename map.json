@@ -342,7 +342,7 @@
         }, 
         {
          "firstgid":1025,
-         "source":"terrain_atlas.tsx"
+         "source":"terrain_atlas.tsx",
          "source":"terrain_atlas.tsx",
          "columns":32,
          "firstgid":7645,
