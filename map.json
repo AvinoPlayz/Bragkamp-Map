@@ -5981,10 +5981,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":8669,
-         "source":"rpgm_xp_tiles___seaside_forest_by_bbrtki_d25fglr.tsx"
-        }, 
-        {
          "firstgid":10600,
          "source":"Kothe_aus_Holz.tsx"
         }, 
