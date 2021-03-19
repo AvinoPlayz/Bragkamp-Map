@@ -12407,6 +12407,32 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":2166,
+         "image":"irgend_so_ein_ding_was_pfadfindenutzen_oder_so2.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"irgend_so_ein_ding_was_pfadfindenutzen_oder_so2",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":2230,
+         "image":"so_ne_pfadfinderhutte_2.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"so_ne_pfadfinderhutte_2",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
