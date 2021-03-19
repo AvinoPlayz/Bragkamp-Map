@@ -359,7 +359,11 @@
         {
          "columns":32,
          "firstgid":7645,
+<<<<<<< HEAD
          "image":"terrain_atlas.png",
+=======
+         "image":"C:\/Users\/Anwender\/AppData\/Local\/Temp\/Rar$DRa16448.16412\/terrain_atlas.png",
+>>>>>>> parent of 4ba8698 (Fix 4)
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
