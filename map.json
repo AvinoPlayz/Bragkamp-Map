@@ -346,7 +346,7 @@
         {
          "columns":32,
          "firstgid":6621,
-         "image":"C:\/Users\/Anwender\/AppData\/Local\/Temp\/Rar$DRa16448.16412\/base_out_atlas.png",
+         "image":"base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -451,7 +451,7 @@
         {
          "columns":32,
          "firstgid":10718,
-         "image":"C:\/Users\/Anwender\/AppData\/Local\/Temp\/Rar$DRa16448.16412\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
