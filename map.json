@@ -11719,6 +11719,10 @@
                  "id":1012
                 }],
          "tilewidth":32
+        }, 
+        {
+         "firstgid":11742,
+         "source":"base_out_atlas.tsx"
         }],
  "tilewidth":32,
  "type":"map",
