@@ -11723,6 +11723,10 @@
         {
          "firstgid":11742,
          "source":"base_out_atlas.tsx"
+        }, 
+        {
+         "firstgid":12766,
+         "source":"terrain_atlas.tsx"
         }],
  "tilewidth":32,
  "type":"map",
