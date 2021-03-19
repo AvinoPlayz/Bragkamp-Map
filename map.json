@@ -1301,6 +1301,7 @@
                 }, 
                 {
                  "id":112,
+                 "probability":0.649999976158142,
                  "properties":[
                         {
                          "name":"collides",
@@ -1875,6 +1876,7 @@
                 }, 
                 {
                  "id":175,
+                 "probability":0.0199999995529652,
                  "properties":[
                         {
                          "name":"collides",
@@ -1884,6 +1886,7 @@
                 }, 
                 {
                  "id":176,
+                 "probability":0.150000005960464,
                  "properties":[
                         {
                          "name":"collides",
@@ -1893,6 +1896,7 @@
                 }, 
                 {
                  "id":177,
+                 "probability":0.150000005960464,
                  "properties":[
                         {
                          "name":"collides",
